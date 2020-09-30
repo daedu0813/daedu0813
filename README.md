@@ -21,6 +21,10 @@
 * 오픈소스  
 * 딥러닝  
 * 블록체인  
+
+![위클리 지윤](/jiyoon.jpg "위클리 지윤")
+<img src=jiyoon.jpg width=10% height=10%>
+
 ------------
 ## 오픈소스 커뮤니티 정리파일
 [오픈소스 커뮤니티 파일](openSourcecommunity.md)
@@ -47,6 +51,5 @@ __강조 문구__
 |1|[Java](https://www.oracle.com/)|[Eclipse](eclipse)|
 |2|C|Visual Studio|
 |3|C++||
-
 
 [eclipse]: https://www.eclipse.org
