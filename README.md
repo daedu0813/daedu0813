@@ -28,4 +28,25 @@
 * jupyter notebook
 * tensorflow
 
+## 주요 검색사이트
 [google](https://www.google.com)
+[daum](https://www.daum.net)
+
+
+### 마크언어 문법 강조
+기본 문구  
+*기본강조 문구*  
+**강조 문구**  
+_기본강조 문구_  
+__강조 문구__  
+++강조 문구++  
+~~언더 라인~~
+
+|GRADE|LANGUAGE|Dev Tool|
+|:---:|---|---|
+|1|[Java](https://www.oracle.com/)|[Eclipse](eclipse)|
+|2|C|Visual Studio|
+|3|C++||
+
+
+[eclipse]: https://www.eclipse.org
