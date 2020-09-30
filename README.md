@@ -4,7 +4,7 @@
 
 #### 이름 : 홍길동
 #### email : gadlsn10@hallym.ac.kr
-#### university : hallym university
+#### university : [hallym university](https://www.hallym.ac.kr)
 
 > 취미  
 >> 음악감상   
@@ -24,3 +24,5 @@
 ------------------
 * jupyter notebook
 * tensorflow
+
+[google](https://www.google.com)
