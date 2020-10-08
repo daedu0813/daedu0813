@@ -2,54 +2,43 @@
 
 ## 개인 이력사항
 
-#### 이름 : 홍길동
-#### email : gadlsn10@hallym.ac.kr
-#### university : [hallym university](https://www.hallym.ac.kr)
+![김기훈](/kihoon.jpg "무려 5년 전사진")
+### 김기훈
+* 대학생 ([한림대학교 소프트웨어융합대학](https://sw.hallym.ac.kr/) 재학 중)
+* 육군 병장 만기전역 (131. 102)
+* 이메일: daedu0813@gmail.com
+* SNS: [페이스북](https://www.facebook.com/daedu4fabk) [트위터](https://twitter.com/DaeDuTwit)
 
-> 취미  
->> 음악감상   
->> 영화감상  
->> 게임  
-
-## 사용 언어
-1. java  
+## 공부한 언어
+1. Java  
 2. C  
 3. C++  
-4. Python  
+4. JavaScript  
+
+## 언어 사용 수준
+|#|언어|수준|
+|:---:|---|---|
+|1|Java|★★★☆☆|
+|2|C|★★★☆☆|
+|3|C++|★★☆☆☆|
+|4|JavaScript|★★☆☆☆|
 
 ## 최근 관심 분야
+* 웹 프론트엔드  
 * 오픈소스  
-* 딥러닝  
-* 블록체인  
+* 데이터베이스  
 
-![김기훈](/kihoon.jpg "김기훈")
-<img src=kihoon.jpg width=10% height=10%>
-
-------------
-## 오픈소스 커뮤니티 정리파일
-[오픈소스 커뮤니티 파일](openSourcecommunity.md)
-------------------
-* jupyter notebook
-* tensorflow
-
-## 주요 검색사이트
-[google](https://www.google.com)  
-[daum](https://www.daum.net)
-
-
-### 마크언어 문법 강조
-기본 문구  
-*기본강조 문구*  
-**강조 문구**  
-_기본강조 문구_  
-__강조 문구__  
-++강조 문구++  
-~~언더 라인~~
-
-|GRADE|LANGUAGE|Dev Tool|
-|:---:|---|---|
-|1|[Java](https://www.oracle.com/)|[Eclipse](eclipse)|
-|2|C|Visual Studio|
-|3|C++||
-
-[eclipse]: https://www.eclipse.org
+## 경력
+### 학교 소프트웨어융합대학 동아리 (2015~2019)
+#### 임베디드 팀 코어
+* 2015년 하계 워크샵 참여
+* 2015년 소프트웨어 전시회 참여 (아두이노 활용 Ambilight)
+  - 설계 및 개발 전 과정 
+* 2016년 소프트웨어 전시회 참여 (아두이노 활용 보트)
+  - 보트 조종 앱 개발
+  
+### 학교 캡스톤디자인 참여 팀 Fifteen (2020. 09~)
+#### [원격 의료 서비스](https://github.com/Fifteen-rm/frontend)
+* 웹 프론트엔드 담당
+* 리액트 웹 프레임워크 사용
+* 첫 리액트 사용으로 매우 미숙하지만 노력 중
