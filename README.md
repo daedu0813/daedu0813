@@ -1,7 +1,3 @@
-# RESUME ( DAEDU KIM )
-
-## 개인 이력사항
-
 ![김기훈](/kihoon.jpg "무려 5년 전사진")
 ### 김기훈
 * 대학생 ([한림대학교 소프트웨어융합대학](https://sw.hallym.ac.kr/) 재학 중)
