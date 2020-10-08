@@ -22,8 +22,8 @@
 * 딥러닝  
 * 블록체인  
 
-![위클리 지윤](/jiyoon.jpg "위클리 지윤")
-<img src=jiyoon.jpg width=10% height=10%>
+![김기훈](/kihoon.jpg "김기훈")
+<img src=kihoon.jpg width=10% height=10%>
 
 ------------
 ## 오픈소스 커뮤니티 정리파일
