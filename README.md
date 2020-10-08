@@ -1,9 +1,10 @@
+# 소개
+
 ![김기훈](/kihoon.jpg "무려 5년 전사진")
 ## 김기훈
 * 대학생 ([한림대학교 소프트웨어융합대학](https://sw.hallym.ac.kr/) 재학 중)
 * 육군 병장 만기전역 (131. 102)
-* 이메일: daedu0813@gmail.com
-* SNS: [페이스북](https://www.facebook.com/daedu4fabk) [트위터](https://twitter.com/DaeDuTwit)
+* [Github](https://github.com/daedu0813) / [E-mail](mailto:daedu0813@gmail.com) / [Facebook](https://www.facebook.com/daedu4fabk) / [Twitter](https://twitter.com/DaeDuTwit)
 
 ## 공부한 언어
 1. Java  
