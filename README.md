@@ -7,18 +7,18 @@
 * [Github](https://github.com/daedu0813) / [E-mail](mailto:daedu0813@gmail.com) / [Facebook](https://www.facebook.com/daedu4fabk) / [Twitter](https://twitter.com/DaeDuTwit)
 
 ## 공부한 언어
-1. Java  
-2. C  
-3. C++  
-4. JavaScript  
+- Java  
+- C  
+- C++  
+- JavaScript  
 
 ## 언어 사용 수준
 |#|언어|수준|
-|:---:|---|---|
-|1|Java|★★★☆☆|
-|2|C|★★★☆☆|
-|3|C++|★★☆☆☆|
-|4|JavaScript|★★☆☆☆|
+|:---:|:---:|:---|
+|1|Java|⭐⭐⭐⭐|
+|2|C|⭐⭐⭐|
+|3|C++|⭐⭐⭐|
+|4|JavaScript|⭐⭐⭐|
 
 ## 최근 관심 분야
 * 웹 프론트엔드  
@@ -26,7 +26,7 @@
 * 데이터베이스  
 
 ## 참여 경력
-### 한림대학교 소프트웨어융합대학 동아리 (2015~2019)
+### 한림대학교 소프트웨어융합대학 동아리 씨애랑 (2015~2019)
 #### 임베디드 팀 코어
 * 2015년 하계 워크샵 참여
 * 2015년 소프트웨어 전시회 참여 (아두이노 활용 Ambilight)
