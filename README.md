@@ -33,3 +33,11 @@
 #### [Keras를 이용한 마스크 검출 및 확인](https://github.com/sunnyleeee/OpenSource_Team-F) - F조
 * 오픈소스 OpenCV 모델 커스터마이징
 * Git 관리
+
+## 개발
+### 한림대학교 모바일프로그래밍 프로젝트
+#### [오늘의 일기](https://github.com/daedu0813/2020-2-MobileProgrammingProject)
+* 설명: 일기 작성 애플리케이션
+* 기능
+  - 사진 첨부
+  - 배경음악(mp3) 첨부
