@@ -2,7 +2,7 @@
 
 ![김기훈](/img/kihoon.jpg "무려 5년 전사진")
 ## 김기훈
-* 대학생 ([한림대학교 소프트웨어융합대학](https://sw.hallym.ac.kr/) 재학 중)
+* 대학생 ([한림대학교 소프트웨어융합대학](https://sw.hallym.ac.kr/) 빅데이터과(前 컴퓨터공학과) 재학 중)
 * 육군 병장 만기전역 (131. 102)
 * [Github](https://github.com/daedu0813) / [E-mail](mailto:daedu0813@gmail.com) / [Facebook](https://www.facebook.com/daedu4fabk) / [Twitter](https://twitter.com/DaeDuTwit)
 
@@ -36,6 +36,7 @@
 
 ## 개발
 ### 한림대학교 모바일프로그래밍 프로젝트
+![오늘의 일기](/img/mp.jpg)
 #### [오늘의 일기](https://github.com/daedu0813/2020-2-MobileProgrammingProject)
 * 설명: 일기 작성 애플리케이션
 * 기능
