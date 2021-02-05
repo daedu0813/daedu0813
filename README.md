@@ -1,6 +1,7 @@
 # 소개
 
-![김기훈](/img/kihoon.jpg "무려 5년 전사진")
+<img src="/img/kihoon_2021.jpg" width="175" height="225">
+
 ## 김기훈
 * 대학생 ([한림대학교 소프트웨어융합대학](https://sw.hallym.ac.kr/) 빅데이터과(前 컴퓨터공학과) 재학 중)
 * 육군 병장 만기전역 (131. 102)
