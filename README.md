@@ -35,6 +35,13 @@
 * 오픈소스 OpenCV 모델 커스터마이징
 * Git 관리
 
+### 한림대학교 2021년 1학기 장기현장실습 (2021. 03. ~ 2021. 06.)
+![셀로코_로고](/img/seloco.png "셀로코 로고")
+#### [셀로코 인턴 일지](https://github.com/daedu0813/seloco_intern)
+* Seloco MyUSN 시스템 기초 교육
+* NVIDIA JETSON NANO를 활용한 주차유도시스템
+* NVIDIA JETSON NANO를 활용한 주차예약시스템
+
 ## 개발
 ### 한림대학교 모바일프로그래밍 프로젝트
 ![오늘의 일기](/img/mp.jpg)
