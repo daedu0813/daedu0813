@@ -7,7 +7,10 @@
 * 육군 병장 만기전역 (131. 102)
 * [Github](https://github.com/daedu0813) / [E-mail](mailto:daedu0813@gmail.com) / [Facebook](https://www.facebook.com/daedu4fabk) / [Twitter](https://twitter.com/DaeDuTwit)
 
-## 최근 관심 분야
+## 찍먹한 언어
+__준비중__
+
+## 관심 분야
 * 웹 프론트엔드  
 * 오픈소스  
 * 안드로이드 프로그래밍  
