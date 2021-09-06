@@ -59,7 +59,7 @@
 #### [원격 의료 서비스](https://github.com/Fifteen-rm/frontend) - 팀 Fifteen
 * 웹 프론트엔드 담당
 * 리액트 웹 프레임워크 사용
-
+* [시연 영상📺](https://youtu.be/x6xgO_QrwnY)
 
 ### 한림대학교 오픈소스SW의 이해와 활용 경진 대회 우수상 수상 (2020. 11. ~ 2020. 12.)
 ![오픈소스SW의이해](/img/keras.png "우수상 수상")
