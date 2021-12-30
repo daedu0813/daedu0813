@@ -1,8 +1,11 @@
-# 소개
+# 김기훈
 
-<img src="/img/kihoon_2021.jpg" width="175" height="225">
+<div align="center">
+    <img src="/img/kihoon_2021_1.jpg" width="600" height="600">
+</div>
 
-## 김기훈
+
+## SUMMARY
 * [휴먼엔시스](http://www.hncis.co.kr/) 솔루션 1팀 매니저 2021.12.06 ~
 * [한림대학교 소프트웨어융합대학](https://sw.hallym.ac.kr/) 컴퓨터공학과 학사
 * 육군 병장 만기전역 (131. 102)
